@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# WED4
+#
+
+projectname: WED4
+vendorid: com.mycompany
+mainmodule: com.mycompany.wed4
